@@ -14,11 +14,6 @@ git clone https://github.com/AspidovNikita/etl.git
 cd etl
 ```
 ```
-python -m venv env
-```
-```
-source env/bin/activate
-```
 
 ```
 python -m pip install --upgrade pip
