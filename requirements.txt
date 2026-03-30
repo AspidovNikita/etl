@@ -1,0 +1,5 @@
+requests
+hydra-core
+omegaconf
+psycopg2
+tenacity
