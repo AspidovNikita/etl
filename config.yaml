@@ -1,0 +1,19 @@
+api:
+  user_agent: "Mozilla/5.0 (compatible; CurrencyParser/1.0)"
+  cbr_url: "http://www.cbr.ru/scripts/XML_daily.asp"
+
+db:
+  name: "etl"
+  user: "etl"
+  password: "etl"
+  host: "localhost"
+  port: 5432
+
+parser:
+  db_enabled: false
+  no_csv: false
+  output_file: "currency_rates.csv"
+
+csv_log:
+  log_file: "etl_runs.csv"
+  no_log: false
