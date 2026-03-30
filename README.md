@@ -7,7 +7,7 @@
 
 
 ```
-git clone https://github.com/Stepan22042004/etl.git
+git clone https://github.com/AspidovNikita/etl.git
 ```
 
 ```
