@@ -10,7 +10,7 @@ db:
   port: 5432
 
 parser:
-  db_enabled: false
+  db_enabled: true
   no_csv: false
   output_file: "currency_rates.csv"
 
